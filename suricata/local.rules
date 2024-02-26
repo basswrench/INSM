@@ -1,0 +1,1 @@
+alert http any any -> any 8888 (msg:"Caldera at work"; sid:1000000; rev:1;)
